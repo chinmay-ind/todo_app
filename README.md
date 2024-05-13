@@ -1,16 +1,7 @@
 # todo_app
 
-A new Flutter project.
 
-## Getting Started
+This is a basic todo application using HIVE DB in flutter. This is an entry level application.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![home_page](https://github.com/chinmay-ind/todo_app/assets/22218546/a05c466d-a35d-4911-b833-a19bdedc6b44)
+![add_task](https://github.com/chinmay-ind/todo_app/assets/22218546/12437a88-1674-43c1-aa0e-ce41413f1845)
